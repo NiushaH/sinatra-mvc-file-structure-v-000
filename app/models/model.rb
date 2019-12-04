@@ -1,3 +1,3 @@
 class Model
-  Dog.new(Lola, prince_charles, 12)
+  lola = Dog.new("Lola", "Prince Charles", 12)
 end
